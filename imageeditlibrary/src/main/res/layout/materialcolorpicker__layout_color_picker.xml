@@ -38,7 +38,7 @@
             android:maxHeight="3dip"
             android:minHeight="3dip"
             android:progressDrawable="@drawable/red_progress"
-            android:thumbTint="@android:color/holo_red_light"/>
+            android:thumbTint="@android:color/holo_red_light" />
 
         <TextView
             android:id="@+id/greenToolTip"
